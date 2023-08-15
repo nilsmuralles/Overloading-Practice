@@ -1,9 +1,9 @@
 /*
- * Nombre del programa: Main
- * Autor: Nils Muralles Morales
- * Fecha de creación: 11 de agosto de 2023
- * Última modificación: 
- * Descripción: Clase principal en la que se llevará a cabo un la compra de tickets para el Eras Tour
+ * @author: Nils Muralles Morales
+ * @Version: 1.0
+ * @since: 08-11-2023
+ * @lastModified: 08-14-2023
+ * Clase principal en la que se llevará a cabo un la compra de tickets para el Eras Tour
  */
 
 // Importar las clases necesarias
@@ -106,6 +106,9 @@ public class Main {
                     break;
 
                 default:
+                    System.out.println("");
+                    System.out.println("Seleccione una opción válida");
+                    System.out.println("");
                     break;
             }
         }

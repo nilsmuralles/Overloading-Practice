@@ -1,9 +1,9 @@
 /*
- * Nombre del programa: Boleto
- * Autor: Nils Muralles Morales
- * Fecha de creación: 11 de agosto de 2023
- * Última modificación: 
- * Descripción: Clase Boleto que contiene el ticket que se le vende al usuario
+ * @author: Nils Muralles Morales
+ * @Version: 1.0
+ * @since: 08-11-2023
+ * @lastModified: 08-14-2023
+ * Clase Boleto que contiene el ticket que se le vende al usuario
  */
 
 // Importar clases necesarias

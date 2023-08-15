@@ -1,9 +1,9 @@
 /*
- * Nombre del programa: Localidad
- * Autor: Nils Muralles Morales
- * Fecha de creación: 11 de agosto de 2023
- * Última modificación: 
- * Descripción: Clase Localidad que contiene la localidad asignada al usuario
+ * @author: Nils Muralles Morales
+ * @Version: 1.0
+ * @since: 08-11-2023
+ * @lastModified: 08-14-2023
+ * Clase Localidad que contiene la localidad asignada al usuario
  */
 
 // Clase Localidad

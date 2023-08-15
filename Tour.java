@@ -1,9 +1,9 @@
 /*
- * Nombre del programa: Tour
- * Autor: Nils Muralles Morales
- * Fecha de creación: 11 de agosto de 2023
- * Última modificación: 
- * Descripción: Clase Tour que ejecuta la lógica del programa
+ * @author: Nils Muralles Morales
+ * @Version: 1.0
+ * @since: 08-11-2023
+ * @lastModified: 08-14-2023
+ * Clase Tour que ejecuta la lógica del programa
  */
 
 // Importar las clases necesarias
@@ -123,6 +123,9 @@ public class Tour {
                 break;
 
             default:
+                System.out.println("");
+                System.out.println("Seleccione una opción válida");
+                System.out.println("");
                 break;
         }
     }

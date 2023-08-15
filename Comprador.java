@@ -1,9 +1,9 @@
 /*
- * Nombre del programa: Comprador
- * Autor: Nils Muralles Morales
- * Fecha de creación: 11 de agosto de 2023
- * Última modificación: 
- * Descripción: Clase Comprador que contiene al usuario que maneja el programa
+ * @author: Nils Muralles Morales
+ * @Version: 1.0
+ * @since: 08-11-2023
+ * @lastModified: 08-14-2023
+ * Clase Comprador que contiene al usuario que maneja el programa
  */
 
 public class Comprador {
